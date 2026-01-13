@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヘッドライナー",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-01-13T14:46:37.421924Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘッドライナー",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_ヘッドライナー_レトロリロン.txt"
+    }
+  ]
+}
